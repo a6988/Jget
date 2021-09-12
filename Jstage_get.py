@@ -64,6 +64,7 @@ def jstage_auto_search(this_csv_path, this_search_word):
     # Open Chrome
     options = Options()
     options.add_argument('--headless')
+    options.binary_location = '/usr/bin/google-chrome'
     browser = webdriver.Chrome(chrome_options = options)
 
     # Browse target URL
