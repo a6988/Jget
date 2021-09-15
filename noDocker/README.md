@@ -11,7 +11,8 @@
 
 * `selenium`とブラウザを繋ぐための`webdriver`のダウンロード
 
-	* google chromeに合わせたwebdriverを[こちら](https://chromedriver.chromium.org/downloads)からダウンロード
+	* 今回はversion93のものを同梱させているので、もし使用しているgoogle chromeのバージョンが一致しているならwebdriverの準備は必要ない
+	* google chromeに合わせたwebdriverを[こちら](https://chromedriver.chromium.org/downloads)からダウンロードして、同じフォルダにコピーする
 
 ## 実行方法
 
