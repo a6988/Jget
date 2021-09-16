@@ -4,7 +4,8 @@
 
 * dockerを使えるように準備
 * `pip install selenium`
-* google chromeのインストールやバージョン確認は必要ない
+* dockerコンテナ上でgoogle chromeが動くので、google chromeのインストールやバージョン確認、webdriverのインストールは必要ない
+
 
 ## 実行方法
 
