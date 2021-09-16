@@ -17,7 +17,7 @@
 ## 実行方法
 
 ```
-python gui_Jstage.py
+python Jstage_get.py
 ```
 
 
